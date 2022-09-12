@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AX/FtkQTGAkNVxLCIpe3Uf5qQcYU5vTg7f3JXM7K82BSe+7+iwcOkAHBQXjTIdhN2lSG2zBrfrPIu653J3dgdg==",
+  "dgSpecHash": "rcdO6e6MNg+E7d8Ryf5vFXgb65vRRxEFd3TlRl5b7hL/fWWTE/piJJVzUCIp8FJghC1FZdw1YqdJvQYliQZtAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\SuperEroiV2\\SuperEroiV2\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
