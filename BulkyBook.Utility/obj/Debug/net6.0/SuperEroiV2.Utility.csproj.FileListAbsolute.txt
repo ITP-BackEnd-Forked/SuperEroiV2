@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\bin\Debug\net6.0\SuperEroiV2.Utility.deps.json
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\bin\Debug\net6.0\SuperEroiV2.Utility.dll
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\bin\Debug\net6.0\SuperEroiV2.Utility.pdb
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\SuperEroiV2.Utility.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\SuperEroiV2.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\SuperEroiV2.Utility.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\SuperEroiV2.Utility.AssemblyInfo.cs
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\SuperEroiV2.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\SuperEroiV2.Utility.dll
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\refint\SuperEroiV2.Utility.dll
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\SuperEroiV2.Utility.pdb
+C:\Users\User\source\repos\SuperEroiV2\SuperEroiV2\BulkyBook.Utility\obj\Debug\net6.0\ref\SuperEroiV2.Utility.dll
